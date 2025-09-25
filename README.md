@@ -6,7 +6,7 @@ A reflex-cloudflare-turnstile component for [Reflex](https://reflex.dev) applica
 ## 📦 Installation
 
 ```bash
-pip install reflex-cloudflare-turnstil
+pip install reflex-cloudflare-turnstile
 ```
 
 ## 🚀 Quick Start
