@@ -53,7 +53,11 @@ def index() -> rx.Component:
 
 app = rx.App()
 app.add_page(index, title="Simple Turnstile Demo", on_load=TurnstileState.reset_validation)
+
+
 ```
+
+<img src="https://cdn.pixalto.app/reflex-cloudflare-turnstile-demo.png">
 
 Don't forget to add the frontend package to your `rxconfig.py`:
 
